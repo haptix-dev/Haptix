@@ -4,7 +4,7 @@ The Haptix macOS companion app enables AI agents to interact with iOS devices an
 
 ## Installation
 
-1. Download the latest `Haptix.dmg` from [Releases](https://github.com/haptix-dev/app/releases)
+1. Download the latest `Haptix.dmg` from [Releases](https://github.com/haptix-dev/Haptix/releases)
 2. Open the DMG and drag **Haptix** to your Applications folder
 3. Launch Haptix from your Applications folder
 
@@ -36,7 +36,7 @@ The default port is `4278` and can be changed in Settings > General.
 
 - macOS 26.0 or later
 - A valid Haptix license key
-- iOS app(s) integrating the [HaptixKit SDK](https://github.com/haptix-dev/sdk)
+- iOS app(s) integrating the [HaptixKit SDK](https://github.com/haptix-dev/HaptixKit)
 
 ## Features
 
